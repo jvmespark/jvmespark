@@ -2,7 +2,7 @@
 
 - I'm a computer science student at the Rensselaer Polytechnic Institute
 - <b>SWE Intern @ Capital One | Digital Payments & Innovation team</b>
-- <b>Open Source Developer</b> for an student organization called <b>RCOS (Rensselaer Center for Open Source)</b>
+- <b>Open Source Developer</b> for a student organization called <b>RCOS (Rensselaer Center for Open Source)</b>
 
 ## Connect with me!
 <p align="center">
