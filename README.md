@@ -1,4 +1,4 @@
-## Hi, James Park - CS @ RPI
+## Hi, I'm James Park - CS @ RPI
 
 - I'm a computer science student at the Rensselaer Polytechnic Institute
 - <b>SWE Intern @ Capital One | Digital Payments & Innovation team</b>
