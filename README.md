@@ -1,4 +1,4 @@
-## Hi, I'm James Park - CS @ RPI
+# Hi, I'm James Park - CS @ RPI
 
 <hr>
 <pre>
