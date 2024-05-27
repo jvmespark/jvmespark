@@ -3,7 +3,7 @@
 <pre>
 &#128214; I'm a computer science student at the Rensselaer Polytechnic Institute  
 &#128179; <b>SWE Intern @ Capital One | Digital Payments & Innovation team</b>  
-&#128187; <b></b>Open Source Developer</b> with a student organization called <b>RCOS (Rensselaer Center for Open Source)</b>
+&#128187; <b>Open Source Developer</b> with a student organization called <b>RCOS (Rensselaer Center for Open Source)</b>
 </pre>
 
 <p align="center">
