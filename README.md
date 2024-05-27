@@ -1,8 +1,8 @@
 ## Hi, I'm James Park - CS @ RPI
 
-- I'm a computer science student at the Rensselaer Polytechnic Institute
-- <b>SWE Intern @ Capital One | Digital Payments & Innovation team</b>
-[![r](https://cdn3.emoji.gg/emojis/r.png)](https://emoji.gg/emoji/r) Open Source Developer</b> for a student organization called <b>RCOS (Rensselaer Center for Open Source)</b>
+:book: I'm a computer science student at the Rensselaer Polytechnic Institute  
+:credit_card: <b> SWE Intern @ Capital One | Digital Payments & Innovation team</b>  
+:o: Open Source Developer</b> for a student organization called <b>RCOS (Rensselaer Center for Open Source)</b>
 
 ## Connect with me!
 <p align="center">
