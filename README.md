@@ -2,8 +2,8 @@
 
 <pre>
 &#128214; Undergraduate computer science major at the Rensselaer Polytechnic Institute
-&#128190; <b>Incoming SWE Intern @ AMD | AI/ML accelerator team | Fall'24</b>  
-&#128179; <b>SWE Intern @ Capital One | Digital Payments & Innovation team | Summer'24</b>  
+&#128190; <b>SWE Intern @ AMD | AI/ML accelerator team | Fall'24</b>  
+&#128179; <b>Prev. SWE Intern @ Capital One | Digital Payments & Innovation team | Summer'24</b>  
 &#128187; <b>Open Source Developer</b> with a student organization called <b>RCOS (Rensselaer Center for Open Source)</b>
 </pre>
 
