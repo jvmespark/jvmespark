@@ -1,4 +1,4 @@
-# Hi, I'm James - CS @ RPI
+# Hello Internet, I'm James!
 
 <pre>
 &#128214; Undergraduate computer science major at the Rensselaer Polytechnic Institute
