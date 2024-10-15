@@ -1,10 +1,10 @@
 # jvmespark:~$ whoami
 
 <pre>
-&#128214; Undergraduate computer science major at the Rensselaer Polytechnic Institute (RPI)
+&#128214; Undergrad student studying Computer Science at the Rensselaer Polytechnic Institute (RPI)
 &#128190; <b>SWE Intern @ AMD | Artificial Intelligence Group | Fall'24</b>  
 &#128179; <b>Prev. SWE Intern @ Capital One | Digital Commerce & Innovation | Summer'24</b>  
-&#128187; <b>Open Source Developer</b> with student organization <b>RCOS (Rensselaer Center for Open Source)</b>
+&#128187; <b>Open Source Developer with the Rensselaer Center for Open Source (RCOS)</b>
 </pre>
 
 <p align="center">
