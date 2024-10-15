@@ -1,4 +1,4 @@
-# Hello Internet! I'm James!
+# jvmespark:~$ whoami
 
 <pre>
 &#128214; Undergraduate computer science major at the Rensselaer Polytechnic Institute
