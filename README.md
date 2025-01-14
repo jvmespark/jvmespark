@@ -3,8 +3,8 @@
 <pre>
 &#128214; Undergrad studying Computer Science at the Rensselaer Polytechnic Institute (RPI)
 &#127760; <b>SWE Intern @ Google | Core Engineering | Summer'25</b>
-&#128190; <b>SWE Intern @ AMD | Artificial Intelligence Group | Fall'24</b>  
-&#128179; <b>SWE Intern @ Capital One | Digital Commerce & Innovation | Summer'24</b>  
+&#128190; <b>           @ AMD | Artificial Intelligence Group | Fall'24</b>  
+&#128179; <b>           @ Capital One | Digital Commerce & Innovation | Summer'24</b>  
 &#128187; <b>Open Source Developer with the Rensselaer Center for Open Source (RCOS)</b>
 </pre>
 
