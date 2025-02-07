@@ -6,7 +6,7 @@
 &#128190; <b>           @ AMD | Artificial Intelligence Group - Silicon | Fall'24</b>  
 &#128179; <b>           @ Capital One | Card Tech & Digital Commerce Innovation | Summer'24</b>  
 &#x1F97C; <b>Researcher @ SCOREC | Multiscale Simulations | Spring'25</b>
-&#128187; <b>Open Source Developer with the Rensselaer Center for Open Source (RCOS)</b>
+&#128187; <b>Open Source Developer w/ the Rensselaer Center for Open Source (RCOS)</b>
 </pre>
 
 <p align="center">
